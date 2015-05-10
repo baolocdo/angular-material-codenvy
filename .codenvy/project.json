@@ -1,0 +1,1 @@
+{"builders":{"configs":{}},"mixinTypes":[],"runners":{"configs":{},"default":"system:/javascript/web/gulp"},"description":"First project using angular gulp","type":"AngularJS","attributes":{"language":["javascript"],"framework":["AngularJS"]}}
